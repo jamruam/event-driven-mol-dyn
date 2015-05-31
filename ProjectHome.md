@@ -1,0 +1,1 @@
+The goal of this project is to build a C code for an event driven molecular dynamics simulations of hard spheres.
